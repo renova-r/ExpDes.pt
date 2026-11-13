@@ -39,7 +39,7 @@ dbc(trat, provador, aparencia, quali = TRUE, mcomp='ccf',
 sigT = 0.05, sigF = 0.05)
 }
 \references{
-CALI\'{N}SKI, T.; CORSTEN, L. C. A. Clustering
+CALI\'\code{N}SKI, T.; CORSTEN, L. C. A. Clustering
 means in ANOVA by Simultaneous Testing. Biometrics. v. 41,
 p. 39-48, 1985.
 }
